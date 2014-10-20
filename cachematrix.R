@@ -3,7 +3,7 @@
 
 ## Write a short comment describing this function
 ## set initial variable to cache get initial variable to cache create list for cachesolve
-## I acknowledge reading Sefa Kilic repository before starting to make sure I was on the write track
+## I acknowledge reading Sefa Kilic repository before starting to make sure I was on the right track
 
 makeCacheMatrix <- function(x = matrix()) {
 
